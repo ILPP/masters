@@ -1,0 +1,104 @@
+{
+  "getNewsList": [
+    {
+      "id": 1,
+      "title": "新闻条目1",
+      "url": "http://starcraft.com"
+    },
+    {
+      "id": 2,
+      "title": "新闻条目2",
+      "url": "http://warcraft.com"
+    },
+    {
+      "id": 3,
+      "title": "新闻条目3",
+      "url": "http://overwatch.com"
+    },
+    {
+      "id": 4,
+      "title": "新闻条目4",
+      "url": "http://hearstone.com"
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "id": 12
+    },
+    {
+      "id": 13
+    },
+    {
+      "id": 14
+    },
+    {
+      "id": 15
+    },
+    {
+      "id": 16
+    },
+    {
+      "id": 17
+    },
+    {
+      "id": 18
+    },
+    {
+      "id": 19
+    },
+    {
+      "id": 20
+    },
+    {
+      "id": 21
+    }
+  ],
+  "login": [
+    {
+      "usernameModel": "@yudongdong",
+      "passwordModel": "123123"
+    },
+    {
+      "usernameModel": "@yuuhei",
+      "passwordModel": "199412"
+    }
+  ],
+  "getPrice": {
+    "buyNumber": 1,
+    "buyType": 0,
+    "period": 0,
+    "version": "0"
+  },
+  "createOrder": {
+    "buyNumber": 3,
+    "buyType": 2,
+    "period": 1,
+    "version": "1,0",
+    "bankId": 301
+  },
+  "getOrderList": {
+    "query": "",
+    "productId": 0,
+    "startDate": "2018-04-05",
+    "endDate": "2018-04-11"
+  }
+}
